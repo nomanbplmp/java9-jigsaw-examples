@@ -1,7 +1,0 @@
-contextsDir=\\conf\\Catalina\\localhost
-eclipse.preferences.version=1
-managerUrl=http\://localhost\:8080/manager
-projectsInCp=spring3-mvc-maven-xml-hello-world;
-tomcatBase=D\:\\softwares\\server\\apache-tomcat-8.0.18
-tomcatConfigFile=\\conf\\server.xml
-tomcatVersion=tomcatV3

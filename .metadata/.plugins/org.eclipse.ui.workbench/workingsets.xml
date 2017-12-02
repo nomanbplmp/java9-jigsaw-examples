@@ -1,8 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<workingSetManager>
-<workingSet editPageId="org.eclipse.ui.resourceWorkingSetPage" factoryID="org.eclipse.ui.internal.WorkingSetFactory" id="1512217513079_1" label="fd-java9-jigsaw" name="fd-java9-jigsaw">
-<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/java9-master-module" type="4"/>
-</workingSet>
-<workingSet editPageId="org.eclipse.ui.resourceWorkingSetPage" factoryID="org.eclipse.ui.internal.WorkingSetFactory" id="1512219268085_2" label="java9-jigsaw" name="java9-jigsaw"/>
-<workingSet aggregate="true" factoryID="org.eclipse.ui.internal.WorkingSetFactory" id="1512217406514_0" label="Window Working Set" name="Aggregate for window 1512217406514"/>
-</workingSetManager>
