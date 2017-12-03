@@ -1,5 +1,7 @@
 **/.metadata
 **/.settings
+**/target
+*.class
 bin/
 tmp/
 *.tmp
