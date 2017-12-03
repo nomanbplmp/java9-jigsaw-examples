@@ -19,9 +19,7 @@ import nk.java9.jigsaw.calculator.algorithm.api.Algorithm;
 
 import java.util.ServiceLoader;
 
-/**
- * Created by dobber on 5-1-17.
- */
+
 public class Main extends Application {
     private ServiceLoader<Algorithm> algorithms;
 

@@ -1,9 +1,7 @@
 package nk.java9.jigsaw.calculator.algorithm.substract;
 
 import nk.java9.jigsaw.calculator.algorithm.api.Algorithm;
-/**
- * Created by dobber on 31-12-16.
- */
+
 public class Substract implements Algorithm {
 
     @Override
