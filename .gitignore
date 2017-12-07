@@ -12,7 +12,7 @@ local.properties
 .settings/
 .loadpath
 .recommenders
-
+*.jar
 # External tool builders
 .externalToolBuilders/
 
